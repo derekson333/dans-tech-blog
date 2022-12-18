@@ -22,5 +22,5 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 * Github URL: 
 https://github.com/derekson333/dans-tech-blog
 
-* Github Deployed Page: 
+* Heroku Deployed Page: 
 https://dan-tech-blog.herokuapp.com
